@@ -1,0 +1,23 @@
+:host
+ {
+   display: block;
+   margin-top: 5%;
+ }
+
+ mat-paginator{
+   margin-top: 20px;
+ }
+ .info-text {
+   text-align: center;
+   font-size: 30px;
+
+ }
+ .post-image{
+  width: 100%;
+  text-align: center;
+}
+
+.post-image img{
+  width: 45vw;
+  height: 30vh;
+}

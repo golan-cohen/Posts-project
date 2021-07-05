@@ -1,0 +1,32 @@
+mat-card{
+  background-color: rgb(223, 219, 219);
+  border: 2px solid gray;
+  border-radius: 10px;
+}
+
+mat-form-field,
+textarea , button {
+  width: 100%;
+  margin-top: 20px;
+}
+
+mat-error{
+  font-size: 14px;
+}
+
+input[type="file"]{
+  visibility: hidden;
+}
+
+.image-preview{
+  text-align: center;
+  padding: 15px;
+  margin: auto;
+}
+
+.image-preview img {
+  border: 1px solid #777;
+  width: 20vw;
+  height: 15vh;
+}
+
